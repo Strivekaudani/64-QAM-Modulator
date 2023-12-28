@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# a simple bash script for Synopsys Design Compiler
+
+echo "Design Compiler Synthesis Control Script"
+
+# reset control variables
+gui=0
+topmodule=""
+newtopflag=0
+top=0
+
+# read and process input arguments
+for arg in $@
+do
+    if [ "$arg" == "-gui" ]
+    then
+	gui=1
+    elif [ $newtopflag == 1 ]
+    then
+	topmodule=$arg
+	newtopflag=0
+    elif [ "$arg" == "-top" ]
+    then
+	newtopflag=1
+        top=1
+    fi
+done
+
+echo ""
+pushd work
+
+#design_vision 
+#design_vision -f ../scripts/synopsys.setup
+
+if [ $gui == 1 ]
+then
+   if [ $top == 1 ]
+   then
+      design_vision -f ../scripts/synthesis_${topmodule}.tcl
+   else
+      design_vision
+   fi
+else
+   if [ $top == 1 ]
+   then
+      dc_shell -f ../scripts/synthesis_${topmodule}.tcl
+   else
+      dc_shell
+   fi
+fi
+
+popd
+
+
+
+	

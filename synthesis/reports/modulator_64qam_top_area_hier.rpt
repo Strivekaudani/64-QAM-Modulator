@@ -1,0 +1,80 @@
+ 
+****************************************
+Report : area
+Design : modulator_64qam_top
+Version: O-2018.06-SP1
+Date   : Sun Dec 17 22:02:52 2023
+****************************************
+
+Library(s) Used:
+
+    IBM_CMOS8HP_SS125 (File: /apps/design_kits/ibm_kits/IBM_IP/ibm_cmos8hp/std_cell/sc/v.20110613/synopsys/ss_125/IBM_CMOS8HP_SS125.db)
+
+Number of ports:                          611
+Number of nets:                         30177
+Number of cells:                        29240
+Number of combinational cells:          24452
+Number of sequential cells:              4751
+Number of macros/black boxes:               0
+Number of buf/inv:                      11895
+Number of references:                      18
+
+Combinational area:             316727.042543
+Buf/Inv area:                   148331.523484
+Noncombinational area:          194983.678787
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                511710.721331
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area              Local cell area
+                                  --------------------  -------------------------------- 
+Hierarchical cell                 Absolute     Percent  Combi-       Noncombi-    Black-
+                                  Total        Total    national     national     boxes   Design
+--------------------------------  -----------  -------  -----------  -----------  ------  -------------------------
+modulator_64qam_top               511710.7213    100.0     241.9200       0.0000  0.0000  modulator_64qam_top
+u_baseband_data                     4992.0000      1.0      21.1200       0.0000  0.0000  baseband_data
+u_baseband_data/control             3406.0800      0.7    1338.2400    1703.0400  0.0000  control_fsm
+u_baseband_data/control/r67          364.8000      0.1     364.8000       0.0000  0.0000  control_fsm_DW01_dec_0
+u_baseband_data/mapper              1564.8000      0.3     606.7200     958.0800  0.0000  symbol_mapping
+u_enable_sync                        122.8800      0.0      11.5200     111.3600  0.0000  sync_ff_sync_1b_0
+u_i_q_data                         10460.1600      2.0      49.9200       0.0000  0.0000  sync_fifo_0
+u_i_q_data/u_read_counter            835.2000      0.2     472.3200     362.8800  0.0000  sync_fifo_read_counter_0
+u_i_q_data/u_read_pointer_sync       485.7600      0.1      40.3200     445.4400  0.0000  sync_fifo_ff_sync_4b_0
+u_i_q_data/u_reg_array              7693.4400      1.5    3807.3600    3886.0800  0.0000  sync_fifo_reg_array_0
+u_i_q_data/u_write_counter          1038.7200      0.2     537.6000     501.1200  0.0000  sync_fifo_write_counter_0
+u_i_q_data/u_write_pointer_sync      357.1200      0.1      34.5600     322.5600  0.0000  sync_fifo_ff_sync_4b_1
+u_mapping_sync                       111.3600      0.0       0.0000     111.3600  0.0000  sync_ff_sync_1b_1
+u_new_symbol_sync                     80.6400      0.0       0.0000      80.6400  0.0000  sync_ff_sync_1b_2
+u_read_data                         9415.6800      1.8      49.9200       0.0000  0.0000  sync_fifo_1
+u_read_data/u_read_counter          1019.5200      0.2     549.1200     470.4000  0.0000  sync_fifo_read_counter_2
+u_read_data/u_read_pointer_sync      357.1200      0.1      34.5600     322.5600  0.0000  sync_fifo_ff_sync_4b_4
+u_read_data/u_reg_array             6652.8000      1.3    3730.5600    2922.2400  0.0000  sync_fifo_reg_array_1
+u_read_data/u_write_counter          871.6800      0.2     508.8000     362.8800  0.0000  sync_fifo_write_counter_2
+u_read_data/u_write_pointer_sync     464.6400      0.1      34.5600     430.0800  0.0000  sync_fifo_ff_sync_4b_5
+u_read_enable_sync                    80.6400      0.0       0.0000      80.6400  0.0000  sync_ff_sync_1b_4
+u_read_ready_sync                     96.0000      0.0       0.0000      96.0000  0.0000  sync_ff_sync_1b_3
+u_reg_addr                         12464.6401      2.4      49.9200       0.0000  0.0000  sync_fifo_10b
+u_reg_addr/u_read_counter            837.1200      0.2     474.2400     362.8800  0.0000  sync_fifo_read_counter_1
+u_reg_addr/u_read_pointer_sync       485.7600      0.1      40.3200     445.4400  0.0000  sync_fifo_ff_sync_4b_2
+u_reg_addr/u_reg_array              9667.2000      1.9    4809.6000    4857.6000  0.0000  sync_fifo_reg_array_10b
+u_reg_addr/u_write_counter          1067.5200      0.2     566.4000     501.1200  0.0000  sync_fifo_write_counter_1
+u_reg_addr/u_write_pointer_sync      357.1200      0.1      34.5600     322.5600  0.0000  sync_fifo_ff_sync_4b_3
+u_reset_synchronization              449.2800      0.1     145.9200     303.3600  0.0000  reset_synchronization
+u_spi_interface                     6380.1601      1.2    4041.6001    2338.5600  0.0000  spi_interface
+u_symbol_storage                  456324.4811     89.2  289238.4024  167086.0787  0.0000  symbol_storage
+u_write_data                       10398.7200      2.0      49.9200       0.0000  0.0000  sync_fifo_2
+u_write_data/u_read_counter          829.4400      0.2     466.5600     362.8800  0.0000  sync_fifo_read_counter_3
+u_write_data/u_read_pointer_sync     485.7600      0.1      40.3200     445.4400  0.0000  sync_fifo_ff_sync_4b_6
+u_write_data/u_reg_array            7635.8400      1.5    3749.7600    3886.0800  0.0000  sync_fifo_reg_array_2
+u_write_data/u_write_counter        1040.6400      0.2     539.5200     501.1200  0.0000  sync_fifo_write_counter_3
+u_write_data/u_write_pointer_sync    357.1200      0.1      34.5600     322.5600  0.0000  sync_fifo_ff_sync_4b_7
+u_write_enable_sync                   92.1600      0.0      11.5200      80.6400  0.0000  sync_ff_sync_1b_5
+--------------------------------  -----------  -------  -----------  -----------  ------  -------------------------
+Total                                                   316727.0425  194983.6788  0.0000
+
+1

@@ -1,0 +1,1167 @@
+s1(31Aug2023:00:39:25):  xmverilog ../../source/program_counter.v -compile 
+s2(31Aug2023:00:39:26):  xmverilog ../testbench/program_counter_tb.v -compile 
+s3(31Aug2023:00:47:13):  xmverilog ../testbench/program_counter_tb.v +access+r +gui 
+s4(31Aug2023:00:49:55):  xmverilog ../testbench/program_counter_tb.v +access+r +gui 
+s5(31Aug2023:20:51:23):  xmverilog ../testbench/program_tb.v +access+r +gui 
+s6(31Aug2023:20:51:47):  xmverilog ../testbench/program_counter_tb.v +access+r +gui 
+s7(05Sep2023:21:41:17):  xmverilog ../../source/program_counter.v -compile 
+s8(05Sep2023:21:41:18):  xmverilog ../testbench/program_counter_tb.v -compile 
+s9(05Sep2023:21:41:54):  xmverilog ../testbench/program_counter_tb.v +access+r +gui 
+s10(11Sep2023:21:02:00):  xmverilog ../testbench/program_counter_tb.v +access+r +gui 
+s11(28Sep2023:23:09:29):  xmverilog ../../source/program_counter.v -compile 
+s12(28Sep2023:23:09:30):  xmverilog ../testbench/program_counter_tb.v -compile 
+s13(28Sep2023:23:10:00):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s14(28Sep2023:23:13:15):  xmverilog ../testbench/elevator_button_tb.v +access+r +gui 
+s15(28Sep2023:23:13:27):  xmverilog ../testbench/elevator_fsm_tb_tb.v +access+r +gui 
+s16(28Sep2023:23:13:34):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s17(28Sep2023:23:34:10):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s18(28Sep2023:23:34:16):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s19(28Sep2023:23:34:19):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s20(28Sep2023:23:34:21):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s21(29Sep2023:00:00:47):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s22(29Sep2023:00:10:55):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s23(29Sep2023:00:12:44):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s24(29Sep2023:01:46:42):  xmverilog ../../source/program_counter.v -compile 
+s25(29Sep2023:01:46:43):  xmverilog ../testbench/program_counter_tb.v -compile 
+s26(29Sep2023:01:48:04):  xmverilog ../../source/elevator_fsm2.v -compile 
+s27(29Sep2023:01:48:05):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s28(29Sep2023:01:55:06):  xmverilog ../../source/elevator_fsm2.v -compile 
+s29(29Sep2023:01:55:07):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s30(29Sep2023:02:00:35):  xmverilog ../../source/elevator_fsm2.v -compile 
+s31(29Sep2023:02:00:35):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s32(29Sep2023:02:04:19):  xmverilog ../../source/elevator_fsm2.v -compile 
+s33(29Sep2023:02:04:20):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s34(29Sep2023:02:07:09):  xmverilog ../../source/elevator_fsm2.v -compile 
+s35(29Sep2023:02:07:09):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s36(29Sep2023:02:16:56):  xmverilog ../../source/elevator_fsm2.v -compile 
+s37(29Sep2023:02:16:56):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s38(29Sep2023:02:19:50):  xmverilog ../../source/elevator_fsm2.v -compile 
+s39(29Sep2023:02:19:50):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s40(29Sep2023:02:20:54):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s41(29Sep2023:02:22:18):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s42(29Sep2023:02:25:06):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s43(29Sep2023:02:25:43):  xmverilog ../../source/elevator_fsm2.v -compile 
+s44(29Sep2023:02:25:44):  xmverilog ../../source/elevator_button.v -compile 
+s45(29Sep2023:02:25:45):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s46(29Sep2023:02:25:49):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s47(09Oct2023:11:24:02):  xmverilog ../../source/elevator_fsm2.v -compile 
+s48(09Oct2023:11:24:02):  xmverilog ../../source/elevator_button.v -compile 
+s49(09Oct2023:11:24:03):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s50(09Oct2023:11:32:38):  xmverilog ../../source/elevator_fsm2.v -compile 
+s51(09Oct2023:11:32:38):  xmverilog ../../source/elevator_button.v -compile 
+s52(09Oct2023:11:32:39):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s53(09Oct2023:11:36:29):  xmverilog ../../source/elevator_fsm2.v -compile 
+s54(09Oct2023:11:36:29):  xmverilog ../../source/elevator_button.v -compile 
+s55(09Oct2023:11:36:30):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s56(09Oct2023:11:38:44):  xmverilog ../../source/elevator_fsm2.v -compile 
+s57(09Oct2023:11:38:44):  xmverilog ../../source/elevator_button.v -compile 
+s58(09Oct2023:11:38:45):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s59(09Oct2023:11:42:15):  xmverilog ../../source/elevator_fsm2.v -compile 
+s60(09Oct2023:11:42:16):  xmverilog ../../source/elevator_button.v -compile 
+s61(09Oct2023:11:42:17):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s62(09Oct2023:11:43:13):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s63(09Oct2023:11:44:47):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s64(09Oct2023:11:48:06):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s65(09Oct2023:11:50:15):  xmverilog ../../source/elevator_fsm2.v -compile 
+s66(09Oct2023:11:50:16):  xmverilog ../../source/elevator_button.v -compile 
+s67(09Oct2023:11:50:16):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s68(09Oct2023:11:50:21):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s69(09Oct2023:12:24:10):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s70(09Oct2023:12:29:53):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s71(09Oct2023:12:32:26):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s72(09Oct2023:12:54:07):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s73(09Oct2023:12:55:30):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s74(09Oct2023:12:57:51):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s75(09Oct2023:12:59:11):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s76(09Oct2023:13:00:41):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s77(09Oct2023:13:01:59):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s78(09Oct2023:13:02:58):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s79(09Oct2023:13:04:44):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s80(28Oct2023:10:39:08):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s81(28Oct2023:10:39:13):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s82(01Nov2023:22:28:04):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s83(01Nov2023:22:28:44):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s84(05Nov2023:15:34:26):  xmverilog ../../source/elevator_fsm2.v -compile 
+s85(05Nov2023:15:34:27):  xmverilog ../../source/elevator_button.v -compile 
+s86(05Nov2023:15:34:27):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s87(05Nov2023:15:34:50):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s88(05Nov2023:16:50:50):  xmverilog ../../source/elevator_fsm2.v -compile 
+s89(05Nov2023:16:50:50):  xmverilog ../../source/elevator_button.v -compile 
+s90(05Nov2023:16:50:51):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s91(05Nov2023:16:50:55):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s92(05Nov2023:17:24:48):  xmverilog ../../source/elevator_fsm2.v -compile 
+s93(05Nov2023:17:24:48):  xmverilog ../../source/elevator_button.v -compile 
+s94(05Nov2023:17:24:49):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s95(05Nov2023:17:24:53):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s96(05Nov2023:17:55:41):  xmverilog ../../source/elevator_fsm2.v -compile 
+s97(05Nov2023:17:55:42):  xmverilog ../../source/elevator_button.v -compile 
+s98(05Nov2023:17:55:42):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s99(05Nov2023:17:55:45):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s100(05Nov2023:18:14:40):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s101(05Nov2023:18:35:09):  xmverilog ../../source/elevator_fsm2.v -compile 
+s102(05Nov2023:18:35:10):  xmverilog ../../source/elevator_button.v -compile 
+s103(05Nov2023:18:35:10):  xmverilog ../testbench/elevator_fsm2_tb.v -compile 
+s104(05Nov2023:18:35:14):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 
+s105(13Nov2023:00:47:59):  xmverilog ../../source/spi_interface.v -compile 
+s106(13Nov2023:00:47:59):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s107(13Nov2023:00:54:53):  xmverilog ../../source/spi_interface.v -compile 
+s108(13Nov2023:00:54:54):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s109(13Nov2023:00:55:15):  xmverilog ../testbench/spi_interface_tb.v +access+r +gui 
+s110(13Nov2023:00:56:26):  xmverilog ../../source/spi_interface.v -compile 
+s111(13Nov2023:00:56:26):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s112(13Nov2023:01:00:31):  xmverilog ../../source/spi_interface.v -compile 
+s113(13Nov2023:01:00:32):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s114(13Nov2023:01:00:38):  xmverilog ../testbench/spi_interface_tb.v +access+r +gui 
+s115(13Nov2023:01:02:20):  xmverilog ../../source/spi_interface.v -compile 
+s116(13Nov2023:01:02:21):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s117(13Nov2023:01:02:24):  xmverilog ../testbench/spi_interface_tb.v +access+r +gui 
+s118(20Nov2023:13:54:07):  xmverilog ../../source/spi_interface.v -compile 
+s119(20Nov2023:13:54:07):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s120(20Nov2023:13:56:57):  xmverilog ../../source/spi_interface.v -compile 
+s121(20Nov2023:13:56:57):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s122(20Nov2023:13:56:58):  xmverilog ../../source/register_array.v -compile 
+s123(20Nov2023:13:56:58):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s124(20Nov2023:13:58:42):  xmverilog ../../source/spi_interface.v -compile 
+s125(20Nov2023:13:58:43):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s126(20Nov2023:13:58:43):  xmverilog ../../source/register_array.v -compile 
+s127(20Nov2023:13:58:44):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s128(20Nov2023:14:00:01):  xmverilog ../../source/spi_interface.v -compile 
+s129(20Nov2023:14:00:02):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s130(20Nov2023:14:00:02):  xmverilog ../../source/register_array.v -compile 
+s131(20Nov2023:14:00:03):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s132(20Nov2023:14:00:32):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s133(20Nov2023:14:03:39):  xmverilog ../../source/spi_interface.v -compile 
+s134(20Nov2023:14:03:39):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s135(20Nov2023:14:03:40):  xmverilog ../../source/register_array.v -compile 
+s136(20Nov2023:14:03:40):  xmverilog ../testbench/spi_interface_tb.v -compile 
+s137(20Nov2023:14:04:29):  xmverilog ../../source/spi_interface.v -compile 
+s138(20Nov2023:14:04:30):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s139(20Nov2023:14:04:30):  xmverilog ../../source/register_array.v -compile 
+s140(20Nov2023:14:04:31):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s141(20Nov2023:14:08:45):  xmverilog ../../source/spi_interface.v -compile 
+s142(20Nov2023:14:08:46):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s143(20Nov2023:14:08:46):  xmverilog ../../source/register_array.v -compile 
+s144(20Nov2023:14:08:47):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s145(20Nov2023:14:13:12):  xmverilog ../../source/spi_interface.v -compile 
+s146(20Nov2023:14:13:13):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s147(20Nov2023:14:13:14):  xmverilog ../../source/register_array.v -compile 
+s148(20Nov2023:14:13:14):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s149(20Nov2023:14:13:55):  xmverilog ../../source/spi_interface.v -compile 
+s150(20Nov2023:14:13:56):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s151(20Nov2023:14:13:56):  xmverilog ../../source/register_array.v -compile 
+s152(20Nov2023:14:13:57):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s153(20Nov2023:14:14:07):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s154(20Nov2023:14:17:50):  xmverilog ../../source/spi_interface.v -compile 
+s155(20Nov2023:14:17:50):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s156(20Nov2023:14:17:51):  xmverilog ../../source/register_array.v -compile 
+s157(20Nov2023:14:17:51):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s158(20Nov2023:14:20:00):  xmverilog ../../source/spi_interface.v -compile 
+s159(20Nov2023:14:20:01):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s160(20Nov2023:14:20:02):  xmverilog ../../source/register_array.v -compile 
+s161(20Nov2023:14:20:02):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s162(20Nov2023:14:20:08):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s163(20Nov2023:15:43:13):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s164(20Nov2023:16:04:10):  xmverilog ../../source/spi_interface.v -compile 
+s165(20Nov2023:16:04:11):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s166(20Nov2023:16:04:11):  xmverilog ../../source/register_array.v -compile 
+s167(20Nov2023:16:04:12):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s168(20Nov2023:16:04:15):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s169(20Nov2023:16:36:31):  xmverilog ../../source/spi_interface.v -compile 
+s170(20Nov2023:16:36:31):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s171(20Nov2023:16:36:32):  xmverilog ../../source/register_array.v -compile 
+s172(20Nov2023:16:36:33):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s173(20Nov2023:16:36:36):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s174(20Nov2023:17:12:01):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s175(20Nov2023:17:22:27):  xmverilog ../../source/spi_interface.v -compile 
+s176(20Nov2023:17:22:28):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s177(20Nov2023:17:22:29):  xmverilog ../../source/register_array.v -compile 
+s178(20Nov2023:17:22:29):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s179(20Nov2023:17:22:32):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s180(20Nov2023:17:36:18):  xmverilog ../../source/spi_interface.v -compile 
+s181(20Nov2023:17:36:19):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s182(20Nov2023:17:36:20):  xmverilog ../../source/register_array.v -compile 
+s183(20Nov2023:17:36:20):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s184(20Nov2023:17:36:23):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s185(20Nov2023:17:40:08):  xmverilog ../../source/spi_interface.v -compile 
+s186(20Nov2023:17:40:09):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s187(20Nov2023:17:40:09):  xmverilog ../../source/register_array.v -compile 
+s188(20Nov2023:17:40:10):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s189(20Nov2023:17:40:12):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s190(20Nov2023:17:43:42):  xmverilog ../../source/spi_interface.v -compile 
+s191(20Nov2023:17:43:42):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s192(20Nov2023:17:43:43):  xmverilog ../../source/register_array.v -compile 
+s193(20Nov2023:17:43:43):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s194(20Nov2023:17:43:47):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s195(20Nov2023:17:46:37):  xmverilog ../../source/spi_interface.v -compile 
+s196(20Nov2023:17:46:37):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s197(20Nov2023:17:46:38):  xmverilog ../../source/register_array.v -compile 
+s198(20Nov2023:17:46:38):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s199(20Nov2023:17:46:42):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s200(20Nov2023:20:24:11):  xmverilog ../../source/spi_interface.v -compile 
+s201(20Nov2023:20:24:11):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s202(20Nov2023:20:24:12):  xmverilog ../../source/register_array.v -compile 
+s203(20Nov2023:20:24:12):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s204(20Nov2023:20:37:00):  xmverilog ../../source/spi_interface.v -compile 
+s205(20Nov2023:20:37:01):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s206(20Nov2023:20:37:02):  xmverilog ../../source/register_array.v -compile 
+s207(20Nov2023:20:37:02):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s208(20Nov2023:20:37:23):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s209(20Nov2023:20:45:21):  xmverilog ../../source/spi_interface.v -compile 
+s210(20Nov2023:20:45:22):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s211(20Nov2023:20:45:22):  xmverilog ../../source/register_array.v -compile 
+s212(20Nov2023:20:45:23):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s213(20Nov2023:20:45:27):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s214(20Nov2023:20:59:55):  xmverilog ../../source/spi_interface.v -compile 
+s215(20Nov2023:20:59:56):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s216(20Nov2023:20:59:56):  xmverilog ../../source/register_array.v -compile 
+s217(20Nov2023:20:59:57):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s218(20Nov2023:20:59:59):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s219(20Nov2023:21:07:53):  xmverilog ../../source/spi_interface.v -compile 
+s220(20Nov2023:21:07:54):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s221(20Nov2023:21:07:55):  xmverilog ../../source/register_array.v -compile 
+s222(20Nov2023:21:07:55):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s223(20Nov2023:21:07:57):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s224(20Nov2023:21:34:36):  xmverilog ../../source/spi_interface.v -compile 
+s225(20Nov2023:21:34:37):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s226(20Nov2023:21:34:38):  xmverilog ../../source/register_array.v -compile 
+s227(20Nov2023:21:34:38):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s228(20Nov2023:21:35:48):  xmverilog ../../source/spi_interface.v -compile 
+s229(20Nov2023:21:35:48):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s230(20Nov2023:21:35:49):  xmverilog ../../source/register_array.v -compile 
+s231(20Nov2023:21:35:49):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s232(20Nov2023:21:35:53):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s233(20Nov2023:21:45:00):  xmverilog ../../source/spi_interface.v -compile 
+s234(20Nov2023:21:45:01):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s235(20Nov2023:21:45:02):  xmverilog ../../source/register_array.v -compile 
+s236(20Nov2023:21:45:02):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s237(20Nov2023:21:45:12):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s238(20Nov2023:21:48:17):  xmverilog ../../source/spi_interface.v -compile 
+s239(20Nov2023:21:48:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s240(20Nov2023:21:48:18):  xmverilog ../../source/register_array.v -compile 
+s241(20Nov2023:21:48:19):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s242(20Nov2023:21:48:22):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s243(20Nov2023:21:55:02):  xmverilog ../../source/spi_interface.v -compile 
+s244(20Nov2023:21:55:03):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s245(20Nov2023:21:55:04):  xmverilog ../../source/register_array.v -compile 
+s246(20Nov2023:21:55:04):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s247(20Nov2023:21:55:07):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s248(20Nov2023:21:56:51):  xmverilog ../../source/spi_interface.v -compile 
+s249(20Nov2023:21:56:52):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s250(20Nov2023:21:56:52):  xmverilog ../../source/register_array.v -compile 
+s251(20Nov2023:21:56:53):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s252(20Nov2023:21:56:55):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s253(20Nov2023:21:59:48):  xmverilog ../../source/spi_interface.v -compile 
+s254(20Nov2023:21:59:49):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s255(20Nov2023:21:59:49):  xmverilog ../../source/register_array.v -compile 
+s256(20Nov2023:21:59:50):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s257(20Nov2023:22:00:16):  xmverilog ../../source/spi_interface.v -compile 
+s258(20Nov2023:22:00:16):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s259(20Nov2023:22:00:17):  xmverilog ../../source/register_array.v -compile 
+s260(20Nov2023:22:00:18):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s261(20Nov2023:22:00:21):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s262(20Nov2023:22:14:09):  xmverilog ../../source/spi_interface.v -compile 
+s263(20Nov2023:22:14:10):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s264(20Nov2023:22:14:10):  xmverilog ../../source/register_array.v -compile 
+s265(20Nov2023:22:14:11):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s266(20Nov2023:22:14:14):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s267(20Nov2023:22:22:16):  xmverilog ../../source/spi_interface.v -compile 
+s268(20Nov2023:22:22:17):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s269(20Nov2023:22:22:17):  xmverilog ../../source/register_array.v -compile 
+s270(20Nov2023:22:22:18):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s271(20Nov2023:22:22:20):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s272(20Nov2023:22:31:53):  xmverilog ../../source/spi_interface.v -compile 
+s273(20Nov2023:22:31:54):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s274(20Nov2023:22:31:55):  xmverilog ../../source/register_array.v -compile 
+s275(20Nov2023:22:31:55):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s276(20Nov2023:22:48:18):  xmverilog ../../source/spi_interface.v -compile 
+s277(20Nov2023:22:48:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s278(20Nov2023:22:48:19):  xmverilog ../../source/register_array.v -compile 
+s279(20Nov2023:22:48:20):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s280(20Nov2023:22:48:39):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s281(20Nov2023:22:51:07):  xmverilog ../../source/spi_interface.v -compile 
+s282(20Nov2023:22:51:08):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s283(20Nov2023:22:51:08):  xmverilog ../../source/register_array.v -compile 
+s284(20Nov2023:22:51:09):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s285(20Nov2023:22:51:12):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s286(20Nov2023:22:56:30):  xmverilog ../../source/spi_interface.v -compile 
+s287(20Nov2023:22:56:31):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s288(20Nov2023:22:56:31):  xmverilog ../../source/register_array.v -compile 
+s289(20Nov2023:22:56:32):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s290(20Nov2023:22:56:34):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s291(20Nov2023:23:02:24):  xmverilog ../../source/spi_interface.v -compile 
+s292(20Nov2023:23:02:25):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s293(20Nov2023:23:02:25):  xmverilog ../../source/register_array.v -compile 
+s294(20Nov2023:23:02:26):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s295(20Nov2023:23:02:29):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s296(20Nov2023:23:35:40):  xmverilog ../../source/spi_interface.v -compile 
+s297(20Nov2023:23:35:41):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s298(20Nov2023:23:35:41):  xmverilog ../../source/register_array.v -compile 
+s299(20Nov2023:23:35:42):  xmverilog ../../source/miso_shift_register.v -compile 
+s300(20Nov2023:23:35:42):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s301(20Nov2023:23:36:19):  xmverilog ../../source/spi_interface.v -compile 
+s302(20Nov2023:23:36:20):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s303(20Nov2023:23:36:20):  xmverilog ../../source/register_array.v -compile 
+s304(20Nov2023:23:36:21):  xmverilog ../../source/miso_shift_register.v -compile 
+s305(20Nov2023:23:36:21):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s306(20Nov2023:23:36:25):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s307(20Nov2023:23:38:32):  xmverilog ../../source/spi_interface.v -compile 
+s308(20Nov2023:23:38:33):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s309(20Nov2023:23:38:33):  xmverilog ../../source/register_array.v -compile 
+s310(20Nov2023:23:38:34):  xmverilog ../../source/miso_shift_register.v -compile 
+s311(20Nov2023:23:38:34):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s312(20Nov2023:23:38:37):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s313(20Nov2023:23:41:40):  xmverilog ../../source/spi_interface.v -compile 
+s314(20Nov2023:23:41:41):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s315(20Nov2023:23:41:41):  xmverilog ../../source/register_array.v -compile 
+s316(20Nov2023:23:41:42):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s317(20Nov2023:23:41:49):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s318(21Nov2023:18:15:19):  xmverilog ../../source/spi_interface.v -compile 
+s319(21Nov2023:18:15:20):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s320(21Nov2023:18:15:20):  xmverilog ../../source/register_array.v -compile 
+s321(21Nov2023:18:15:21):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s322(21Nov2023:18:15:24):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s323(21Nov2023:18:52:22):  xmverilog ../../source/spi_interface.v -compile 
+s324(21Nov2023:18:52:23):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s325(21Nov2023:18:52:24):  xmverilog ../../source/register_array.v -compile 
+s326(21Nov2023:18:52:24):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s327(21Nov2023:18:52:31):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s328(21Nov2023:18:55:34):  xmverilog ../../source/spi_interface.v -compile 
+s329(21Nov2023:18:55:35):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s330(21Nov2023:18:55:35):  xmverilog ../../source/register_array.v -compile 
+s331(21Nov2023:18:55:36):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s332(21Nov2023:18:55:38):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s333(21Nov2023:19:00:49):  xmverilog ../../source/spi_interface.v -compile 
+s334(21Nov2023:19:00:50):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s335(21Nov2023:19:00:51):  xmverilog ../../source/register_array.v -compile 
+s336(21Nov2023:19:00:51):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s337(21Nov2023:19:00:54):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s338(21Nov2023:19:06:54):  xmverilog ../../source/spi_interface.v -compile 
+s339(21Nov2023:19:06:55):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s340(21Nov2023:19:06:55):  xmverilog ../../source/register_array.v -compile 
+s341(21Nov2023:19:06:56):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s342(21Nov2023:19:07:00):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s343(21Nov2023:19:25:18):  xmverilog ../../source/spi_interface.v -compile 
+s344(21Nov2023:19:25:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s345(21Nov2023:19:25:19):  xmverilog ../../source/register_array.v -compile 
+s346(21Nov2023:19:25:19):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s347(21Nov2023:19:25:22):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s348(21Nov2023:19:27:27):  xmverilog ../../source/spi_interface.v -compile 
+s349(21Nov2023:19:27:27):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s350(21Nov2023:19:27:28):  xmverilog ../../source/register_array.v -compile 
+s351(21Nov2023:19:27:28):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s352(21Nov2023:19:27:31):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s353(21Nov2023:19:36:52):  xmverilog ../../source/spi_interface.v -compile 
+s354(21Nov2023:19:36:52):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s355(21Nov2023:19:36:53):  xmverilog ../../source/register_array.v -compile 
+s356(21Nov2023:19:36:53):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s357(21Nov2023:19:36:55):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s358(21Nov2023:19:45:36):  xmverilog ../../source/spi_interface.v -compile 
+s359(21Nov2023:19:45:36):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s360(21Nov2023:19:45:37):  xmverilog ../../source/register_array.v -compile 
+s361(21Nov2023:19:45:38):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s362(21Nov2023:19:45:41):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s363(21Nov2023:19:54:09):  xmverilog ../../source/spi_interface.v -compile 
+s364(21Nov2023:19:54:10):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s365(21Nov2023:19:54:10):  xmverilog ../../source/register_array.v -compile 
+s366(21Nov2023:19:54:11):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s367(21Nov2023:19:54:15):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s368(21Nov2023:19:57:24):  xmverilog ../../source/spi_interface.v -compile 
+s369(21Nov2023:19:57:25):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s370(21Nov2023:19:57:25):  xmverilog ../../source/register_array.v -compile 
+s371(21Nov2023:19:57:26):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s372(21Nov2023:19:57:30):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s373(21Nov2023:19:58:36):  xmverilog ../../source/spi_interface.v -compile 
+s374(21Nov2023:19:58:36):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s375(21Nov2023:19:58:37):  xmverilog ../../source/register_array.v -compile 
+s376(21Nov2023:19:58:38):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s377(21Nov2023:19:58:40):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s378(21Nov2023:21:36:57):  xmverilog ../../source/spi_interface.v -compile 
+s379(21Nov2023:21:36:58):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s380(21Nov2023:21:36:58):  xmverilog ../../source/register_array.v -compile 
+s381(21Nov2023:21:36:59):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s382(21Nov2023:21:37:18):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s383(21Nov2023:21:38:48):  xmverilog ../../source/spi_interface.v -compile 
+s384(21Nov2023:21:38:49):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s385(21Nov2023:21:38:49):  xmverilog ../../source/register_array.v -compile 
+s386(21Nov2023:21:38:50):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s387(21Nov2023:21:38:53):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s388(21Nov2023:21:56:27):  xmverilog ../../source/spi_interface.v -compile 
+s389(21Nov2023:21:56:28):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s390(21Nov2023:21:56:28):  xmverilog ../../source/register_array.v -compile 
+s391(21Nov2023:21:56:29):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s392(21Nov2023:21:56:39):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s393(21Nov2023:21:57:41):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s394(21Nov2023:22:15:01):  xmverilog ../../source/spi_interface.v -compile 
+s395(21Nov2023:22:15:01):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s396(21Nov2023:22:15:02):  xmverilog ../../source/register_array.v -compile 
+s397(21Nov2023:22:15:03):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s398(21Nov2023:22:15:06):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s399(21Nov2023:22:19:40):  xmverilog ../../source/spi_interface.v -compile 
+s400(21Nov2023:22:19:41):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s401(21Nov2023:22:19:42):  xmverilog ../../source/register_array.v -compile 
+s402(21Nov2023:22:19:42):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s403(21Nov2023:22:19:45):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s404(21Nov2023:23:20:05):  xmverilog ../../source/spi_interface.v -compile 
+s405(21Nov2023:23:20:05):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s406(21Nov2023:23:20:06):  xmverilog ../../source/register_array.v -compile 
+s407(21Nov2023:23:20:07):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s408(21Nov2023:23:20:28):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s409(21Nov2023:23:28:35):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s410(01Dec2023:18:28:16):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s411(01Dec2023:18:28:16):  xmverilog ../../source/symbol_mapping.v -compile 
+s412(01Dec2023:18:28:17):  xmverilog ../../source/control_fsm.v -compile 
+s413(01Dec2023:18:28:17):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s414(01Dec2023:18:37:00):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s415(01Dec2023:18:37:00):  xmverilog ../../source/symbol_mapping.v -compile 
+s416(01Dec2023:18:37:01):  xmverilog ../../source/control_fsm.v -compile 
+s417(01Dec2023:18:37:01):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s418(01Dec2023:18:40:07):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s419(01Dec2023:18:40:07):  xmverilog ../../source/symbol_mapping.v -compile 
+s420(01Dec2023:18:40:08):  xmverilog ../../source/control_fsm.v -compile 
+s421(01Dec2023:18:40:08):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s422(01Dec2023:18:43:34):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s423(01Dec2023:18:43:34):  xmverilog ../../source/symbol_mapping.v -compile 
+s424(01Dec2023:18:43:35):  xmverilog ../../source/control_fsm.v -compile 
+s425(01Dec2023:18:43:36):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s426(01Dec2023:18:43:57):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s427(01Dec2023:18:47:22):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s428(01Dec2023:18:47:22):  xmverilog ../../source/symbol_mapping.v -compile 
+s429(01Dec2023:18:47:23):  xmverilog ../../source/control_fsm.v -compile 
+s430(01Dec2023:18:47:23):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s431(01Dec2023:18:47:27):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s432(01Dec2023:18:50:57):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s433(01Dec2023:18:50:58):  xmverilog ../../source/symbol_mapping.v -compile 
+s434(01Dec2023:18:50:58):  xmverilog ../../source/control_fsm.v -compile 
+s435(01Dec2023:18:50:59):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s436(01Dec2023:18:51:01):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s437(01Dec2023:18:53:18):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s438(01Dec2023:18:53:19):  xmverilog ../../source/symbol_mapping.v -compile 
+s439(01Dec2023:18:53:20):  xmverilog ../../source/control_fsm.v -compile 
+s440(01Dec2023:18:53:20):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s441(01Dec2023:18:53:26):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s442(01Dec2023:18:54:24):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s443(01Dec2023:18:54:25):  xmverilog ../../source/symbol_mapping.v -compile 
+s444(01Dec2023:18:54:25):  xmverilog ../../source/control_fsm.v -compile 
+s445(01Dec2023:18:54:26):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s446(01Dec2023:18:54:29):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s447(01Dec2023:21:40:07):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s448(01Dec2023:21:40:08):  xmverilog ../../source/symbol_mapping.v -compile 
+s449(01Dec2023:21:40:08):  xmverilog ../../source/control_fsm.v -compile 
+s450(01Dec2023:21:40:09):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s451(01Dec2023:21:40:12):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s452(01Dec2023:21:52:22):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s453(01Dec2023:21:52:23):  xmverilog ../../source/symbol_mapping.v -compile 
+s454(01Dec2023:21:52:23):  xmverilog ../../source/control_fsm.v -compile 
+s455(01Dec2023:21:52:24):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s456(01Dec2023:21:52:27):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s457(01Dec2023:21:58:02):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s458(01Dec2023:22:41:27):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s459(01Dec2023:22:41:27):  xmverilog ../../source/symbol_mapping.v -compile 
+s460(01Dec2023:22:41:28):  xmverilog ../../source/control_fsm.v -compile 
+s461(01Dec2023:22:41:28):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s462(01Dec2023:22:41:37):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s463(02Dec2023:10:58:46):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s464(02Dec2023:10:58:47):  xmverilog ../../source/symbol_mapping.v -compile 
+s465(02Dec2023:10:58:47):  xmverilog ../../source/control_fsm.v -compile 
+s466(02Dec2023:10:58:48):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s467(02Dec2023:10:59:07):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s468(02Dec2023:11:31:54):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s469(02Dec2023:11:31:55):  xmverilog ../../source/symbol_mapping.v -compile 
+s470(02Dec2023:11:31:55):  xmverilog ../../source/control_fsm.v -compile 
+s471(02Dec2023:11:31:56):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s472(02Dec2023:11:31:58):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s473(02Dec2023:11:33:23):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s474(02Dec2023:12:01:02):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s475(02Dec2023:12:01:03):  xmverilog ../../source/symbol_mapping.v -compile 
+s476(02Dec2023:12:01:03):  xmverilog ../../source/control_fsm.v -compile 
+s477(02Dec2023:12:01:04):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s478(02Dec2023:12:01:07):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s479(02Dec2023:12:23:50):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s480(02Dec2023:12:23:50):  xmverilog ../../source/symbol_mapping.v -compile 
+s481(02Dec2023:12:23:51):  xmverilog ../../source/control_fsm.v -compile 
+s482(02Dec2023:12:23:51):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s483(02Dec2023:14:29:13):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s484(02Dec2023:14:29:14):  xmverilog ../../source/symbol_mapping.v -compile 
+s485(02Dec2023:14:29:14):  xmverilog ../../source/control_fsm.v -compile 
+s486(02Dec2023:14:29:15):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s487(02Dec2023:14:29:18):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s488(02Dec2023:14:43:00):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s489(02Dec2023:14:43:00):  xmverilog ../../source/symbol_mapping.v -compile 
+s490(02Dec2023:14:43:01):  xmverilog ../../source/control_fsm.v -compile 
+s491(02Dec2023:14:43:02):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s492(02Dec2023:14:43:04):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s493(02Dec2023:15:52:00):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s494(02Dec2023:15:52:01):  xmverilog ../../source/symbol_mapping.v -compile 
+s495(02Dec2023:15:52:01):  xmverilog ../../source/control_fsm.v -compile 
+s496(02Dec2023:15:52:02):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s497(02Dec2023:15:57:47):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s498(02Dec2023:15:57:47):  xmverilog ../../source/symbol_mapping.v -compile 
+s499(02Dec2023:15:57:48):  xmverilog ../../source/control_fsm.v -compile 
+s500(02Dec2023:15:57:49):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s501(02Dec2023:15:58:02):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s502(02Dec2023:16:04:46):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s503(02Dec2023:16:04:46):  xmverilog ../../source/symbol_mapping.v -compile 
+s504(02Dec2023:16:04:47):  xmverilog ../../source/control_fsm.v -compile 
+s505(02Dec2023:16:04:48):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s506(02Dec2023:16:05:04):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s507(02Dec2023:16:05:05):  xmverilog ../../source/symbol_mapping.v -compile 
+s508(02Dec2023:16:05:05):  xmverilog ../../source/control_fsm.v -compile 
+s509(02Dec2023:16:05:06):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s510(02Dec2023:16:05:26):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s511(02Dec2023:16:23:47):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s512(02Dec2023:16:23:47):  xmverilog ../../source/symbol_mapping.v -compile 
+s513(02Dec2023:16:23:48):  xmverilog ../../source/control_fsm.v -compile 
+s514(02Dec2023:16:23:48):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s515(02Dec2023:16:23:51):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s516(02Dec2023:17:12:34):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s517(02Dec2023:17:12:35):  xmverilog ../../source/symbol_mapping.v -compile 
+s518(02Dec2023:17:12:35):  xmverilog ../../source/control_fsm.v -compile 
+s519(02Dec2023:17:12:36):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s520(02Dec2023:17:12:39):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s521(02Dec2023:17:16:43):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s522(02Dec2023:17:16:44):  xmverilog ../../source/symbol_mapping.v -compile 
+s523(02Dec2023:17:16:44):  xmverilog ../../source/control_fsm.v -compile 
+s524(02Dec2023:17:16:45):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s525(02Dec2023:17:16:48):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s526(02Dec2023:19:03:39):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s527(02Dec2023:19:03:40):  xmverilog ../../source/symbol_mapping.v -compile 
+s528(02Dec2023:19:03:40):  xmverilog ../../source/control_fsm.v -compile 
+s529(02Dec2023:19:03:41):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s530(02Dec2023:19:03:56):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s531(02Dec2023:19:18:06):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s532(02Dec2023:19:18:06):  xmverilog ../../source/symbol_mapping.v -compile 
+s533(02Dec2023:19:18:07):  xmverilog ../../source/control_fsm.v -compile 
+s534(02Dec2023:19:18:08):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s535(02Dec2023:19:18:10):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s536(02Dec2023:19:26:00):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s537(02Dec2023:19:26:00):  xmverilog ../../source/symbol_mapping.v -compile 
+s538(02Dec2023:19:26:01):  xmverilog ../../source/control_fsm.v -compile 
+s539(02Dec2023:19:26:01):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s540(02Dec2023:19:26:04):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s541(02Dec2023:19:57:35):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s542(02Dec2023:19:57:36):  xmverilog ../../source/symbol_mapping.v -compile 
+s543(02Dec2023:19:57:36):  xmverilog ../../source/control_fsm.v -compile 
+s544(02Dec2023:19:57:37):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s545(02Dec2023:20:00:50):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s546(02Dec2023:20:00:51):  xmverilog ../../source/symbol_mapping.v -compile 
+s547(02Dec2023:20:00:52):  xmverilog ../../source/control_fsm.v -compile 
+s548(02Dec2023:20:00:52):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s549(02Dec2023:20:10:33):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s550(02Dec2023:20:10:34):  xmverilog ../../source/symbol_mapping.v -compile 
+s551(02Dec2023:20:10:34):  xmverilog ../../source/control_fsm.v -compile 
+s552(02Dec2023:20:10:35):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s553(02Dec2023:20:12:20):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s554(02Dec2023:20:12:21):  xmverilog ../../source/symbol_mapping.v -compile 
+s555(02Dec2023:20:12:21):  xmverilog ../../source/control_fsm.v -compile 
+s556(02Dec2023:20:12:22):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s557(02Dec2023:20:13:05):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s558(02Dec2023:20:13:06):  xmverilog ../../source/symbol_mapping.v -compile 
+s559(02Dec2023:20:13:06):  xmverilog ../../source/control_fsm.v -compile 
+s560(02Dec2023:20:13:07):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s561(02Dec2023:20:15:32):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s562(02Dec2023:20:15:33):  xmverilog ../../source/symbol_mapping.v -compile 
+s563(02Dec2023:20:15:33):  xmverilog ../../source/control_fsm.v -compile 
+s564(02Dec2023:20:15:34):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s565(02Dec2023:20:16:18):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s566(02Dec2023:20:16:19):  xmverilog ../../source/symbol_mapping.v -compile 
+s567(02Dec2023:20:16:19):  xmverilog ../../source/control_fsm.v -compile 
+s568(02Dec2023:20:16:20):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s569(02Dec2023:20:16:26):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s570(02Dec2023:20:17:41):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s571(02Dec2023:20:17:41):  xmverilog ../../source/symbol_mapping.v -compile 
+s572(02Dec2023:20:17:42):  xmverilog ../../source/control_fsm.v -compile 
+s573(02Dec2023:20:17:42):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s574(02Dec2023:20:17:45):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s575(02Dec2023:20:25:56):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s576(02Dec2023:20:25:57):  xmverilog ../../source/symbol_mapping.v -compile 
+s577(02Dec2023:20:25:57):  xmverilog ../../source/control_fsm.v -compile 
+s578(02Dec2023:20:25:58):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s579(02Dec2023:20:26:01):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s580(02Dec2023:20:34:27):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s581(02Dec2023:20:34:28):  xmverilog ../../source/symbol_mapping.v -compile 
+s582(02Dec2023:20:34:29):  xmverilog ../../source/control_fsm.v -compile 
+s583(02Dec2023:20:34:29):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s584(02Dec2023:20:34:31):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s585(02Dec2023:22:09:25):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s586(02Dec2023:22:09:26):  xmverilog ../../source/symbol_mapping.v -compile 
+s587(02Dec2023:22:09:27):  xmverilog ../../source/control_fsm.v -compile 
+s588(02Dec2023:22:09:27):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s589(02Dec2023:22:11:45):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s590(02Dec2023:22:11:46):  xmverilog ../../source/symbol_mapping.v -compile 
+s591(02Dec2023:22:11:46):  xmverilog ../../source/control_fsm.v -compile 
+s592(02Dec2023:22:11:47):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s593(02Dec2023:22:11:52):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s594(02Dec2023:22:12:13):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s595(02Dec2023:22:13:51):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s596(02Dec2023:22:13:51):  xmverilog ../../source/symbol_mapping.v -compile 
+s597(02Dec2023:22:13:52):  xmverilog ../../source/control_fsm.v -compile 
+s598(02Dec2023:22:13:52):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s599(02Dec2023:22:13:55):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s600(02Dec2023:22:21:27):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s601(02Dec2023:22:21:27):  xmverilog ../../source/symbol_mapping.v -compile 
+s602(02Dec2023:22:21:28):  xmverilog ../../source/control_fsm.v -compile 
+s603(02Dec2023:22:21:28):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s604(02Dec2023:22:21:31):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s605(02Dec2023:22:34:12):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s606(02Dec2023:22:34:12):  xmverilog ../../source/symbol_mapping.v -compile 
+s607(02Dec2023:22:34:13):  xmverilog ../../source/control_fsm.v -compile 
+s608(02Dec2023:22:34:14):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s609(02Dec2023:22:34:16):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s610(02Dec2023:22:36:07):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s611(02Dec2023:22:36:07):  xmverilog ../../source/symbol_mapping.v -compile 
+s612(02Dec2023:22:36:08):  xmverilog ../../source/control_fsm.v -compile 
+s613(02Dec2023:22:36:08):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s614(02Dec2023:22:36:11):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s615(02Dec2023:22:48:44):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s616(02Dec2023:22:48:44):  xmverilog ../../source/symbol_mapping.v -compile 
+s617(02Dec2023:22:48:45):  xmverilog ../../source/control_fsm.v -compile 
+s618(02Dec2023:22:48:45):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s619(02Dec2023:22:53:09):  xmverilog ../../source/symbol_mapping_top.v -compile 
+s620(02Dec2023:22:53:09):  xmverilog ../../source/symbol_mapping.v -compile 
+s621(02Dec2023:22:53:10):  xmverilog ../../source/control_fsm.v -compile 
+s622(02Dec2023:22:53:11):  xmverilog ../testbench/symbol_mapping_top_tb.v -compile 
+s623(02Dec2023:22:53:28):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s624(14Dec2023:13:09:16):  xmverilog ../testbench/symbol_mapping_tb.v +access+r +gui 
+s625(14Dec2023:13:09:44):  xmverilog ../testbench/symbol_mapping_top_tb.v +access+r +gui 
+s626(16Dec2023:12:10:22):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s627(16Dec2023:12:10:23):  xmverilog ../../source/baseband_data.v -compile 
+s628(16Dec2023:12:10:23):  xmverilog ../../source/control_fsm.v -compile 
+s629(16Dec2023:12:10:24):  xmverilog ../../source/spi_interface.v -compile 
+s630(16Dec2023:12:10:24):  xmverilog ../../source/symbol_mapping.v -compile 
+s631(16Dec2023:12:10:25):  xmverilog ../../source/symbol_storage.v -compile 
+s632(16Dec2023:12:10:25):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s633(16Dec2023:12:10:26):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s634(16Dec2023:12:10:27):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s635(16Dec2023:12:10:27):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s636(16Dec2023:12:10:28):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s637(16Dec2023:12:10:28):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s638(16Dec2023:12:10:29):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s639(16Dec2023:12:10:29):  xmverilog ../../source/sync_fifo.v -compile 
+s640(16Dec2023:12:10:30):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s641(16Dec2023:12:14:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s642(16Dec2023:12:14:19):  xmverilog ../../source/baseband_data.v -compile 
+s643(16Dec2023:12:14:19):  xmverilog ../../source/control_fsm.v -compile 
+s644(16Dec2023:12:14:20):  xmverilog ../../source/spi_interface.v -compile 
+s645(16Dec2023:12:14:20):  xmverilog ../../source/symbol_mapping.v -compile 
+s646(16Dec2023:12:14:21):  xmverilog ../../source/symbol_storage.v -compile 
+s647(16Dec2023:12:14:21):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s648(16Dec2023:12:14:22):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s649(16Dec2023:12:14:23):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s650(16Dec2023:12:14:23):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s651(16Dec2023:12:14:24):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s652(16Dec2023:12:14:24):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s653(16Dec2023:12:14:25):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s654(16Dec2023:12:14:25):  xmverilog ../../source/sync_fifo.v -compile 
+s655(16Dec2023:12:14:26):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s656(16Dec2023:12:17:19):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s657(16Dec2023:12:17:19):  xmverilog ../../source/baseband_data.v -compile 
+s658(16Dec2023:12:17:20):  xmverilog ../../source/control_fsm.v -compile 
+s659(16Dec2023:12:17:20):  xmverilog ../../source/spi_interface.v -compile 
+s660(16Dec2023:12:17:21):  xmverilog ../../source/symbol_mapping.v -compile 
+s661(16Dec2023:12:17:22):  xmverilog ../../source/symbol_storage.v -compile 
+s662(16Dec2023:12:17:22):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s663(16Dec2023:12:17:23):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s664(16Dec2023:12:17:23):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s665(16Dec2023:12:17:24):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s666(16Dec2023:12:17:24):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s667(16Dec2023:12:17:25):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s668(16Dec2023:12:17:25):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s669(16Dec2023:12:17:26):  xmverilog ../../source/sync_fifo.v -compile 
+s670(16Dec2023:12:17:27):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s671(16Dec2023:12:18:00):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s672(16Dec2023:12:55:01):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s673(16Dec2023:12:55:02):  xmverilog ../../source/baseband_data.v -compile 
+s674(16Dec2023:12:55:02):  xmverilog ../../source/control_fsm.v -compile 
+s675(16Dec2023:12:55:03):  xmverilog ../../source/spi_interface.v -compile 
+s676(16Dec2023:12:55:03):  xmverilog ../../source/symbol_mapping.v -compile 
+s677(16Dec2023:12:55:04):  xmverilog ../../source/symbol_storage.v -compile 
+s678(16Dec2023:12:55:04):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s679(16Dec2023:12:55:05):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s680(16Dec2023:12:55:05):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s681(16Dec2023:12:55:06):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s682(16Dec2023:12:55:06):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s683(16Dec2023:12:55:07):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s684(16Dec2023:12:55:07):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s685(16Dec2023:12:55:08):  xmverilog ../../source/sync_fifo.v -compile 
+s686(16Dec2023:12:55:08):  xmverilog ../../source/reset_synchronization.v -compile 
+s687(16Dec2023:12:55:09):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s688(16Dec2023:12:55:13):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s689(16Dec2023:13:01:23):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s690(16Dec2023:13:01:24):  xmverilog ../../source/baseband_data.v -compile 
+s691(16Dec2023:13:01:25):  xmverilog ../../source/control_fsm.v -compile 
+s692(16Dec2023:13:01:25):  xmverilog ../../source/spi_interface.v -compile 
+s693(16Dec2023:13:01:25):  xmverilog ../../source/symbol_mapping.v -compile 
+s694(16Dec2023:13:01:26):  xmverilog ../../source/symbol_storage.v -compile 
+s695(16Dec2023:13:01:26):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s696(16Dec2023:13:01:27):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s697(16Dec2023:13:01:27):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s698(16Dec2023:13:01:28):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s699(16Dec2023:13:01:29):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s700(16Dec2023:13:01:29):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s701(16Dec2023:13:01:30):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s702(16Dec2023:13:01:30):  xmverilog ../../source/sync_fifo.v -compile 
+s703(16Dec2023:13:01:31):  xmverilog ../../source/reset_synchronization.v -compile 
+s704(16Dec2023:13:01:31):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s705(16Dec2023:13:04:47):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s706(16Dec2023:13:04:48):  xmverilog ../../source/baseband_data.v -compile 
+s707(16Dec2023:13:04:49):  xmverilog ../../source/control_fsm.v -compile 
+s708(16Dec2023:13:04:49):  xmverilog ../../source/spi_interface.v -compile 
+s709(16Dec2023:13:04:50):  xmverilog ../../source/symbol_mapping.v -compile 
+s710(16Dec2023:13:04:50):  xmverilog ../../source/symbol_storage.v -compile 
+s711(16Dec2023:13:04:50):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s712(16Dec2023:13:04:51):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s713(16Dec2023:13:04:52):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s714(16Dec2023:13:04:52):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s715(16Dec2023:13:04:53):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s716(16Dec2023:13:04:53):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s717(16Dec2023:13:04:54):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s718(16Dec2023:13:04:54):  xmverilog ../../source/sync_fifo.v -compile 
+s719(16Dec2023:13:04:55):  xmverilog ../../source/reset_synchronization.v -compile 
+s720(16Dec2023:13:04:55):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s721(16Dec2023:13:08:22):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s722(16Dec2023:13:08:22):  xmverilog ../../source/baseband_data.v -compile 
+s723(16Dec2023:13:08:23):  xmverilog ../../source/control_fsm.v -compile 
+s724(16Dec2023:13:08:23):  xmverilog ../../source/spi_interface.v -compile 
+s725(16Dec2023:13:08:24):  xmverilog ../../source/symbol_mapping.v -compile 
+s726(16Dec2023:13:08:25):  xmverilog ../../source/symbol_storage.v -compile 
+s727(16Dec2023:13:08:25):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s728(16Dec2023:13:08:26):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s729(16Dec2023:13:08:26):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s730(16Dec2023:13:08:27):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s731(16Dec2023:13:08:27):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s732(16Dec2023:13:08:28):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s733(16Dec2023:13:08:28):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s734(16Dec2023:13:08:29):  xmverilog ../../source/sync_fifo.v -compile 
+s735(16Dec2023:13:08:29):  xmverilog ../../source/reset_synchronization.v -compile 
+s736(16Dec2023:13:08:30):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s737(16Dec2023:13:08:35):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s738(16Dec2023:13:46:27):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s739(16Dec2023:13:46:27):  xmverilog ../../source/baseband_data.v -compile 
+s740(16Dec2023:13:46:28):  xmverilog ../../source/control_fsm.v -compile 
+s741(16Dec2023:13:46:28):  xmverilog ../../source/spi_interface.v -compile 
+s742(16Dec2023:13:46:29):  xmverilog ../../source/symbol_mapping.v -compile 
+s743(16Dec2023:13:46:30):  xmverilog ../../source/symbol_storage.v -compile 
+s744(16Dec2023:13:46:30):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s745(16Dec2023:13:46:31):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s746(16Dec2023:13:46:31):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s747(16Dec2023:13:46:32):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s748(16Dec2023:13:46:32):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s749(16Dec2023:13:46:33):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s750(16Dec2023:13:46:34):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s751(16Dec2023:13:46:34):  xmverilog ../../source/sync_fifo.v -compile 
+s752(16Dec2023:13:46:35):  xmverilog ../../source/reset_synchronization.v -compile 
+s753(16Dec2023:13:46:35):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s754(16Dec2023:13:46:39):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s755(16Dec2023:19:07:48):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s756(16Dec2023:19:38:26):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s757(16Dec2023:22:26:59):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s758(16Dec2023:23:23:37):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s759(16Dec2023:23:24:26):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s760(16Dec2023:23:24:26):  xmverilog ../../source/baseband_data.v -compile 
+s761(16Dec2023:23:24:27):  xmverilog ../../source/control_fsm.v -compile 
+s762(16Dec2023:23:24:27):  xmverilog ../../source/spi_interface.v -compile 
+s763(16Dec2023:23:24:28):  xmverilog ../../source/symbol_mapping.v -compile 
+s764(16Dec2023:23:24:28):  xmverilog ../../source/symbol_storage.v -compile 
+s765(16Dec2023:23:24:29):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s766(16Dec2023:23:24:30):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s767(16Dec2023:23:24:30):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s768(16Dec2023:23:24:31):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s769(16Dec2023:23:24:31):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s770(16Dec2023:23:24:32):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s771(16Dec2023:23:24:32):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s772(16Dec2023:23:24:33):  xmverilog ../../source/sync_fifo.v -compile 
+s773(16Dec2023:23:24:33):  xmverilog ../../source/reset_synchronization.v -compile 
+s774(16Dec2023:23:24:34):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s775(16Dec2023:23:24:38):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s776(16Dec2023:23:28:50):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s777(16Dec2023:23:28:51):  xmverilog ../../source/baseband_data.v -compile 
+s778(16Dec2023:23:28:52):  xmverilog ../../source/control_fsm.v -compile 
+s779(16Dec2023:23:28:52):  xmverilog ../../source/spi_interface.v -compile 
+s780(16Dec2023:23:28:53):  xmverilog ../../source/symbol_mapping.v -compile 
+s781(16Dec2023:23:28:53):  xmverilog ../../source/symbol_storage.v -compile 
+s782(16Dec2023:23:28:54):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s783(16Dec2023:23:28:54):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s784(16Dec2023:23:28:55):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s785(16Dec2023:23:28:56):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s786(16Dec2023:23:28:56):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s787(16Dec2023:23:28:57):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s788(16Dec2023:23:28:57):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s789(16Dec2023:23:28:58):  xmverilog ../../source/sync_fifo.v -compile 
+s790(16Dec2023:23:28:58):  xmverilog ../../source/reset_synchronization.v -compile 
+s791(16Dec2023:23:28:59):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s792(16Dec2023:23:29:03):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s793(16Dec2023:23:40:38):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s794(16Dec2023:23:40:38):  xmverilog ../../source/baseband_data.v -compile 
+s795(16Dec2023:23:40:39):  xmverilog ../../source/control_fsm.v -compile 
+s796(16Dec2023:23:40:40):  xmverilog ../../source/spi_interface.v -compile 
+s797(16Dec2023:23:40:40):  xmverilog ../../source/symbol_mapping.v -compile 
+s798(16Dec2023:23:40:41):  xmverilog ../../source/symbol_storage.v -compile 
+s799(16Dec2023:23:40:41):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s800(16Dec2023:23:40:42):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s801(16Dec2023:23:40:42):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s802(16Dec2023:23:40:43):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s803(16Dec2023:23:40:43):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s804(16Dec2023:23:40:44):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s805(16Dec2023:23:40:45):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s806(16Dec2023:23:40:45):  xmverilog ../../source/sync_fifo.v -compile 
+s807(16Dec2023:23:40:46):  xmverilog ../../source/reset_synchronization.v -compile 
+s808(16Dec2023:23:40:46):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s809(16Dec2023:23:40:50):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s810(17Dec2023:00:35:08):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s811(17Dec2023:00:35:08):  xmverilog ../../source/baseband_data.v -compile 
+s812(17Dec2023:00:35:09):  xmverilog ../../source/control_fsm.v -compile 
+s813(17Dec2023:00:35:09):  xmverilog ../../source/spi_interface.v -compile 
+s814(17Dec2023:00:35:10):  xmverilog ../../source/symbol_mapping.v -compile 
+s815(17Dec2023:00:35:10):  xmverilog ../../source/symbol_storage.v -compile 
+s816(17Dec2023:00:35:11):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s817(17Dec2023:00:35:12):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s818(17Dec2023:00:35:12):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s819(17Dec2023:00:35:13):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s820(17Dec2023:00:35:13):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s821(17Dec2023:00:35:14):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s822(17Dec2023:00:35:14):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s823(17Dec2023:00:35:15):  xmverilog ../../source/sync_fifo.v -compile 
+s824(17Dec2023:00:35:16):  xmverilog ../../source/reset_synchronization.v -compile 
+s825(17Dec2023:00:35:16):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s826(17Dec2023:00:35:19):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s827(17Dec2023:10:49:05):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s828(17Dec2023:10:49:05):  xmverilog ../../source/baseband_data.v -compile 
+s829(17Dec2023:10:49:06):  xmverilog ../../source/control_fsm.v -compile 
+s830(17Dec2023:10:49:06):  xmverilog ../../source/spi_interface.v -compile 
+s831(17Dec2023:10:49:07):  xmverilog ../../source/symbol_mapping.v -compile 
+s832(17Dec2023:10:49:07):  xmverilog ../../source/symbol_storage.v -compile 
+s833(17Dec2023:10:49:08):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s834(17Dec2023:10:49:09):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s835(17Dec2023:10:49:09):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s836(17Dec2023:10:49:10):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s837(17Dec2023:10:49:10):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s838(17Dec2023:10:49:11):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s839(17Dec2023:10:49:11):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s840(17Dec2023:10:49:12):  xmverilog ../../source/sync_fifo.v -compile 
+s841(17Dec2023:10:49:12):  xmverilog ../../source/reset_synchronization.v -compile 
+s842(17Dec2023:10:49:13):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s843(17Dec2023:10:49:17):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s844(17Dec2023:10:52:07):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s845(17Dec2023:10:52:07):  xmverilog ../../source/baseband_data.v -compile 
+s846(17Dec2023:10:52:08):  xmverilog ../../source/control_fsm.v -compile 
+s847(17Dec2023:10:52:08):  xmverilog ../../source/spi_interface.v -compile 
+s848(17Dec2023:10:52:09):  xmverilog ../../source/symbol_mapping.v -compile 
+s849(17Dec2023:10:52:09):  xmverilog ../../source/symbol_storage.v -compile 
+s850(17Dec2023:10:52:10):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s851(17Dec2023:10:52:11):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s852(17Dec2023:10:52:11):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s853(17Dec2023:10:52:12):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s854(17Dec2023:10:52:12):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s855(17Dec2023:10:52:13):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s856(17Dec2023:10:52:13):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s857(17Dec2023:10:52:14):  xmverilog ../../source/sync_fifo.v -compile 
+s858(17Dec2023:10:52:15):  xmverilog ../../source/reset_synchronization.v -compile 
+s859(17Dec2023:10:52:15):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s860(17Dec2023:10:52:19):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s861(17Dec2023:13:30:55):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s862(17Dec2023:13:30:56):  xmverilog ../../source/baseband_data.v -compile 
+s863(17Dec2023:13:30:56):  xmverilog ../../source/control_fsm.v -compile 
+s864(17Dec2023:13:30:57):  xmverilog ../../source/spi_interface.v -compile 
+s865(17Dec2023:13:30:57):  xmverilog ../../source/symbol_mapping.v -compile 
+s866(17Dec2023:13:30:58):  xmverilog ../../source/symbol_storage.v -compile 
+s867(17Dec2023:13:30:59):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s868(17Dec2023:13:30:59):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s869(17Dec2023:13:31:00):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s870(17Dec2023:13:31:00):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s871(17Dec2023:13:31:01):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s872(17Dec2023:13:31:01):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s873(17Dec2023:13:31:02):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s874(17Dec2023:13:31:02):  xmverilog ../../source/sync_fifo.v -compile 
+s875(17Dec2023:13:31:03):  xmverilog ../../source/reset_synchronization.v -compile 
+s876(17Dec2023:13:31:04):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s877(17Dec2023:13:31:07):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s878(17Dec2023:13:47:50):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s879(17Dec2023:14:10:39):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s880(17Dec2023:14:10:39):  xmverilog ../../source/baseband_data.v -compile 
+s881(17Dec2023:14:10:40):  xmverilog ../../source/control_fsm.v -compile 
+s882(17Dec2023:14:10:40):  xmverilog ../../source/spi_interface.v -compile 
+s883(17Dec2023:14:10:41):  xmverilog ../../source/symbol_mapping.v -compile 
+s884(17Dec2023:14:10:41):  xmverilog ../../source/symbol_storage.v -compile 
+s885(17Dec2023:14:10:42):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s886(17Dec2023:14:10:43):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s887(17Dec2023:14:10:43):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s888(17Dec2023:14:10:44):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s889(17Dec2023:14:10:44):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s890(17Dec2023:14:10:45):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s891(17Dec2023:14:10:45):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s892(17Dec2023:14:10:46):  xmverilog ../../source/sync_fifo.v -compile 
+s893(17Dec2023:14:10:46):  xmverilog ../../source/reset_synchronization.v -compile 
+s894(17Dec2023:14:10:47):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s895(17Dec2023:14:11:00):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s896(17Dec2023:15:04:05):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s897(17Dec2023:15:04:05):  xmverilog ../../source/baseband_data.v -compile 
+s898(17Dec2023:15:04:06):  xmverilog ../../source/control_fsm.v -compile 
+s899(17Dec2023:15:04:06):  xmverilog ../../source/spi_interface.v -compile 
+s900(17Dec2023:15:04:07):  xmverilog ../../source/symbol_mapping.v -compile 
+s901(17Dec2023:15:04:08):  xmverilog ../../source/symbol_storage.v -compile 
+s902(17Dec2023:15:04:08):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s903(17Dec2023:15:04:09):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s904(17Dec2023:15:04:09):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s905(17Dec2023:15:04:10):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s906(17Dec2023:15:04:10):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s907(17Dec2023:15:04:11):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s908(17Dec2023:15:04:11):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s909(17Dec2023:15:04:12):  xmverilog ../../source/sync_fifo.v -compile 
+s910(17Dec2023:15:04:13):  xmverilog ../../source/reset_synchronization.v -compile 
+s911(17Dec2023:15:04:13):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s912(17Dec2023:15:04:16):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s913(17Dec2023:17:01:22):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s914(17Dec2023:17:01:22):  xmverilog ../../source/baseband_data.v -compile 
+s915(17Dec2023:17:01:23):  xmverilog ../../source/control_fsm.v -compile 
+s916(17Dec2023:17:01:24):  xmverilog ../../source/spi_interface.v -compile 
+s917(17Dec2023:17:01:24):  xmverilog ../../source/symbol_mapping.v -compile 
+s918(17Dec2023:17:01:25):  xmverilog ../../source/symbol_storage.v -compile 
+s919(17Dec2023:17:01:25):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s920(17Dec2023:17:01:26):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s921(17Dec2023:17:01:26):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s922(17Dec2023:17:01:27):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s923(17Dec2023:17:01:27):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s924(17Dec2023:17:01:28):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s925(17Dec2023:17:01:29):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s926(17Dec2023:17:01:29):  xmverilog ../../source/sync_fifo.v -compile 
+s927(17Dec2023:17:01:30):  xmverilog ../../source/reset_synchronization.v -compile 
+s928(17Dec2023:17:01:30):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s929(17Dec2023:17:01:33):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s930(17Dec2023:18:10:37):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s931(17Dec2023:18:13:51):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s932(17Dec2023:18:13:52):  xmverilog ../../source/baseband_data.v -compile 
+s933(17Dec2023:18:13:52):  xmverilog ../../source/control_fsm.v -compile 
+s934(17Dec2023:18:13:53):  xmverilog ../../source/spi_interface.v -compile 
+s935(17Dec2023:18:13:53):  xmverilog ../../source/symbol_mapping.v -compile 
+s936(17Dec2023:18:13:54):  xmverilog ../../source/symbol_storage.v -compile 
+s937(17Dec2023:18:13:55):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s938(17Dec2023:18:13:55):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s939(17Dec2023:18:13:56):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s940(17Dec2023:18:13:56):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s941(17Dec2023:18:13:57):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s942(17Dec2023:18:13:57):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s943(17Dec2023:18:13:58):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s944(17Dec2023:18:13:59):  xmverilog ../../source/sync_fifo.v -compile 
+s945(17Dec2023:18:13:59):  xmverilog ../../source/reset_synchronization.v -compile 
+s946(17Dec2023:18:14:00):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s947(17Dec2023:18:14:03):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s948(17Dec2023:19:10:41):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s949(17Dec2023:19:10:42):  xmverilog ../../source/baseband_data.v -compile 
+s950(17Dec2023:19:10:42):  xmverilog ../../source/control_fsm.v -compile 
+s951(17Dec2023:19:10:43):  xmverilog ../../source/spi_interface.v -compile 
+s952(17Dec2023:19:10:44):  xmverilog ../../source/symbol_mapping.v -compile 
+s953(17Dec2023:19:10:44):  xmverilog ../../source/symbol_storage.v -compile 
+s954(17Dec2023:19:10:45):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s955(17Dec2023:19:10:45):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s956(17Dec2023:19:10:46):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s957(17Dec2023:19:10:46):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s958(17Dec2023:19:10:47):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s959(17Dec2023:19:10:48):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s960(17Dec2023:19:10:48):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s961(17Dec2023:19:10:49):  xmverilog ../../source/sync_fifo.v -compile 
+s962(17Dec2023:19:10:49):  xmverilog ../../source/reset_synchronization.v -compile 
+s963(17Dec2023:19:10:50):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s964(17Dec2023:19:10:52):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s965(17Dec2023:19:20:59):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s966(17Dec2023:19:20:59):  xmverilog ../../source/baseband_data.v -compile 
+s967(17Dec2023:19:21:00):  xmverilog ../../source/control_fsm.v -compile 
+s968(17Dec2023:19:21:00):  xmverilog ../../source/spi_interface.v -compile 
+s969(17Dec2023:19:21:01):  xmverilog ../../source/symbol_mapping.v -compile 
+s970(17Dec2023:19:21:02):  xmverilog ../../source/symbol_storage.v -compile 
+s971(17Dec2023:19:21:02):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s972(17Dec2023:19:21:03):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s973(17Dec2023:19:21:03):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s974(17Dec2023:19:21:04):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s975(17Dec2023:19:21:04):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s976(17Dec2023:19:21:05):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s977(17Dec2023:19:21:05):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s978(17Dec2023:19:21:06):  xmverilog ../../source/sync_fifo.v -compile 
+s979(17Dec2023:19:21:07):  xmverilog ../../source/reset_synchronization.v -compile 
+s980(17Dec2023:19:21:07):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s981(17Dec2023:19:21:14):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s982(17Dec2023:19:24:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s983(17Dec2023:19:24:19):  xmverilog ../../source/baseband_data.v -compile 
+s984(17Dec2023:19:24:19):  xmverilog ../../source/control_fsm.v -compile 
+s985(17Dec2023:19:24:20):  xmverilog ../../source/spi_interface.v -compile 
+s986(17Dec2023:19:24:20):  xmverilog ../../source/symbol_mapping.v -compile 
+s987(17Dec2023:19:24:21):  xmverilog ../../source/symbol_storage.v -compile 
+s988(17Dec2023:19:24:22):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s989(17Dec2023:19:24:22):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s990(17Dec2023:19:24:23):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s991(17Dec2023:19:24:23):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s992(17Dec2023:19:24:24):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s993(17Dec2023:19:24:24):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s994(17Dec2023:19:24:25):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s995(17Dec2023:19:24:26):  xmverilog ../../source/sync_fifo.v -compile 
+s996(17Dec2023:19:24:26):  xmverilog ../../source/reset_synchronization.v -compile 
+s997(17Dec2023:19:24:27):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s998(17Dec2023:19:24:32):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s999(17Dec2023:19:29:11):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1000(17Dec2023:19:29:11):  xmverilog ../../source/baseband_data.v -compile 
+s1001(17Dec2023:19:29:12):  xmverilog ../../source/control_fsm.v -compile 
+s1002(17Dec2023:19:29:12):  xmverilog ../../source/spi_interface.v -compile 
+s1003(17Dec2023:19:29:13):  xmverilog ../../source/symbol_mapping.v -compile 
+s1004(17Dec2023:19:29:14):  xmverilog ../../source/symbol_storage.v -compile 
+s1005(17Dec2023:19:29:14):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1006(17Dec2023:19:29:15):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1007(17Dec2023:19:29:15):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1008(17Dec2023:19:29:16):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1009(17Dec2023:19:29:16):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1010(17Dec2023:19:29:17):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1011(17Dec2023:19:29:18):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1012(17Dec2023:19:29:18):  xmverilog ../../source/sync_fifo.v -compile 
+s1013(17Dec2023:19:29:19):  xmverilog ../../source/reset_synchronization.v -compile 
+s1014(17Dec2023:19:29:19):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1015(17Dec2023:19:29:22):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1016(17Dec2023:19:47:07):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1017(17Dec2023:19:47:07):  xmverilog ../../source/baseband_data.v -compile 
+s1018(17Dec2023:19:47:08):  xmverilog ../../source/control_fsm.v -compile 
+s1019(17Dec2023:19:47:08):  xmverilog ../../source/spi_interface.v -compile 
+s1020(17Dec2023:19:47:09):  xmverilog ../../source/symbol_mapping.v -compile 
+s1021(17Dec2023:19:47:10):  xmverilog ../../source/symbol_storage.v -compile 
+s1022(17Dec2023:19:47:10):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1023(17Dec2023:19:47:11):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1024(17Dec2023:19:47:11):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1025(17Dec2023:19:47:12):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1026(17Dec2023:19:47:12):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1027(17Dec2023:19:47:13):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1028(17Dec2023:19:47:13):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1029(17Dec2023:19:47:14):  xmverilog ../../source/sync_fifo.v -compile 
+s1030(17Dec2023:19:47:15):  xmverilog ../../source/reset_synchronization.v -compile 
+s1031(17Dec2023:19:47:15):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1032(17Dec2023:19:47:19):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1033(17Dec2023:19:51:18):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1034(17Dec2023:19:51:18):  xmverilog ../../source/baseband_data.v -compile 
+s1035(17Dec2023:19:51:19):  xmverilog ../../source/control_fsm.v -compile 
+s1036(17Dec2023:19:51:19):  xmverilog ../../source/spi_interface.v -compile 
+s1037(17Dec2023:19:51:20):  xmverilog ../../source/symbol_mapping.v -compile 
+s1038(17Dec2023:19:51:21):  xmverilog ../../source/symbol_storage.v -compile 
+s1039(17Dec2023:19:51:21):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1040(17Dec2023:19:51:22):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1041(17Dec2023:19:51:22):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1042(17Dec2023:19:51:23):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1043(17Dec2023:19:51:24):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1044(17Dec2023:19:51:24):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1045(17Dec2023:19:51:25):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1046(17Dec2023:19:51:25):  xmverilog ../../source/sync_fifo.v -compile 
+s1047(17Dec2023:19:51:26):  xmverilog ../../source/reset_synchronization.v -compile 
+s1048(17Dec2023:19:51:26):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1049(17Dec2023:19:51:29):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1050(17Dec2023:19:57:16):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1051(17Dec2023:19:57:17):  xmverilog ../../source/baseband_data.v -compile 
+s1052(17Dec2023:19:57:17):  xmverilog ../../source/control_fsm.v -compile 
+s1053(17Dec2023:19:57:18):  xmverilog ../../source/spi_interface.v -compile 
+s1054(17Dec2023:19:57:18):  xmverilog ../../source/symbol_mapping.v -compile 
+s1055(17Dec2023:19:57:19):  xmverilog ../../source/symbol_storage.v -compile 
+s1056(17Dec2023:19:57:19):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1057(17Dec2023:19:57:20):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1058(17Dec2023:19:57:21):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1059(17Dec2023:19:57:21):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1060(17Dec2023:19:57:22):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1061(17Dec2023:19:57:22):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1062(17Dec2023:19:57:23):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1063(17Dec2023:19:57:23):  xmverilog ../../source/sync_fifo.v -compile 
+s1064(17Dec2023:19:57:24):  xmverilog ../../source/reset_synchronization.v -compile 
+s1065(17Dec2023:19:57:24):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1066(17Dec2023:19:57:27):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1067(17Dec2023:20:02:45):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1068(17Dec2023:21:50:00):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1069(17Dec2023:21:50:01):  xmverilog ../../source/baseband_data.v -compile 
+s1070(17Dec2023:21:50:02):  xmverilog ../../source/control_fsm.v -compile 
+s1071(17Dec2023:21:50:02):  xmverilog ../../source/spi_interface.v -compile 
+s1072(17Dec2023:21:50:03):  xmverilog ../../source/symbol_mapping.v -compile 
+s1073(17Dec2023:21:50:03):  xmverilog ../../source/symbol_storage.v -compile 
+s1074(17Dec2023:21:50:04):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1075(17Dec2023:21:50:04):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1076(17Dec2023:21:50:05):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1077(17Dec2023:21:50:06):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1078(17Dec2023:21:50:06):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1079(17Dec2023:21:50:07):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1080(17Dec2023:21:50:07):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1081(17Dec2023:21:50:08):  xmverilog ../../source/sync_fifo.v -compile 
+s1082(17Dec2023:21:50:08):  xmverilog ../../source/reset_synchronization.v -compile 
+s1083(17Dec2023:21:50:09):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1084(17Dec2023:21:55:07):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1085(17Dec2023:21:55:08):  xmverilog ../../source/baseband_data.v -compile 
+s1086(17Dec2023:21:55:08):  xmverilog ../../source/control_fsm.v -compile 
+s1087(17Dec2023:21:55:09):  xmverilog ../../source/spi_interface.v -compile 
+s1088(17Dec2023:21:55:09):  xmverilog ../../source/symbol_mapping.v -compile 
+s1089(17Dec2023:21:55:10):  xmverilog ../../source/symbol_storage.v -compile 
+s1090(17Dec2023:21:55:11):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1091(17Dec2023:21:55:11):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1092(17Dec2023:21:55:12):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1093(17Dec2023:21:55:12):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1094(17Dec2023:21:55:13):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1095(17Dec2023:21:55:13):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1096(17Dec2023:21:55:14):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1097(17Dec2023:21:55:15):  xmverilog ../../source/sync_fifo.v -compile 
+s1098(17Dec2023:21:55:15):  xmverilog ../../source/reset_synchronization.v -compile 
+s1099(17Dec2023:21:55:16):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1100(17Dec2023:22:55:32):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1101(17Dec2023:22:55:32):  xmverilog ../../source/baseband_data.v -compile 
+s1102(17Dec2023:22:55:33):  xmverilog ../../source/control_fsm.v -compile 
+s1103(17Dec2023:22:55:33):  xmverilog ../../source/spi_interface.v -compile 
+s1104(17Dec2023:22:55:34):  xmverilog ../../source/symbol_mapping.v -compile 
+s1105(17Dec2023:22:55:35):  xmverilog ../../source/symbol_storage.v -compile 
+s1106(17Dec2023:22:55:35):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1107(17Dec2023:22:55:36):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1108(17Dec2023:22:55:36):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1109(17Dec2023:22:55:37):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1110(17Dec2023:22:55:37):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1111(17Dec2023:22:55:38):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1112(17Dec2023:22:55:38):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1113(17Dec2023:22:55:39):  xmverilog ../../source/sync_fifo.v -compile 
+s1114(17Dec2023:22:55:40):  xmverilog ../../source/reset_synchronization.v -compile 
+s1115(17Dec2023:22:55:40):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1116(17Dec2023:22:55:47):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1117(17Dec2023:22:57:03):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1118(17Dec2023:22:57:03):  xmverilog ../../source/baseband_data.v -compile 
+s1119(17Dec2023:22:57:04):  xmverilog ../../source/control_fsm.v -compile 
+s1120(17Dec2023:22:57:05):  xmverilog ../../source/spi_interface.v -compile 
+s1121(17Dec2023:22:57:05):  xmverilog ../../source/symbol_mapping.v -compile 
+s1122(17Dec2023:22:57:06):  xmverilog ../../source/symbol_storage.v -compile 
+s1123(17Dec2023:22:57:06):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1124(17Dec2023:22:57:07):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1125(17Dec2023:22:57:07):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1126(17Dec2023:22:57:08):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1127(17Dec2023:22:57:09):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1128(17Dec2023:22:57:09):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1129(17Dec2023:22:57:10):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1130(17Dec2023:22:57:10):  xmverilog ../../source/sync_fifo.v -compile 
+s1131(17Dec2023:22:57:11):  xmverilog ../../source/reset_synchronization.v -compile 
+s1132(17Dec2023:22:57:12):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1133(17Dec2023:22:57:15):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1134(17Dec2023:23:10:15):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1135(17Dec2023:23:10:16):  xmverilog ../../source/baseband_data.v -compile 
+s1136(17Dec2023:23:10:16):  xmverilog ../../source/control_fsm.v -compile 
+s1137(17Dec2023:23:10:17):  xmverilog ../../source/spi_interface.v -compile 
+s1138(17Dec2023:23:10:17):  xmverilog ../../source/symbol_mapping.v -compile 
+s1139(17Dec2023:23:10:18):  xmverilog ../../source/symbol_storage.v -compile 
+s1140(17Dec2023:23:10:18):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1141(17Dec2023:23:10:19):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1142(17Dec2023:23:10:19):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1143(17Dec2023:23:10:20):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1144(17Dec2023:23:10:21):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1145(17Dec2023:23:10:21):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1146(17Dec2023:23:10:22):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1147(17Dec2023:23:10:22):  xmverilog ../../source/sync_fifo.v -compile 
+s1148(17Dec2023:23:10:23):  xmverilog ../../source/reset_synchronization.v -compile 
+s1149(17Dec2023:23:10:23):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1150(17Dec2023:23:10:40):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 
+s1151(17Dec2023:23:18:47):  xmverilog ../../source/modulator_64qam_top.v -compile 
+s1152(17Dec2023:23:18:48):  xmverilog ../../source/baseband_data.v -compile 
+s1153(17Dec2023:23:18:48):  xmverilog ../../source/control_fsm.v -compile 
+s1154(17Dec2023:23:18:49):  xmverilog ../../source/spi_interface.v -compile 
+s1155(17Dec2023:23:18:49):  xmverilog ../../source/symbol_mapping.v -compile 
+s1156(17Dec2023:23:18:50):  xmverilog ../../source/symbol_storage.v -compile 
+s1157(17Dec2023:23:18:51):  xmverilog ../../source/sync_ff_sync_1b.v -compile 
+s1158(17Dec2023:23:18:51):  xmverilog ../../source/sync_fifo_10b.v -compile 
+s1159(17Dec2023:23:18:52):  xmverilog ../../source/sync_fifo_ff_sync_4b.v -compile 
+s1160(17Dec2023:23:18:52):  xmverilog ../../source/sync_fifo_read_counter.v -compile 
+s1161(17Dec2023:23:18:53):  xmverilog ../../source/sync_fifo_reg_array_10b.v -compile 
+s1162(17Dec2023:23:18:53):  xmverilog ../../source/sync_fifo_reg_array.v -compile 
+s1163(17Dec2023:23:18:54):  xmverilog ../../source/sync_fifo_write_counter.v -compile 
+s1164(17Dec2023:23:18:55):  xmverilog ../../source/sync_fifo.v -compile 
+s1165(17Dec2023:23:18:55):  xmverilog ../../source/reset_synchronization.v -compile 
+s1166(17Dec2023:23:18:56):  xmverilog ../testbench/modulator_64qam_top_tb.v -compile 
+s1167(17Dec2023:23:18:59):  xmverilog ../testbench/modulator_64qam_top_tb.v +access+r +gui 

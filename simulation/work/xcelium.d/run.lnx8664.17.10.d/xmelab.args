@@ -1,0 +1,20 @@
+//
+// File created by:  xmverilog
+// Do not modify this file
+//
++access+r
++gui
+-noshowtop
+-ACCESS
++r
+-MESSAGES
+-XLMODE
+./xcelium.d/run.lnx8664.17.10.d
+-RUNMODE
+-CDSLIB
+./xcelium.d/run.lnx8664.17.10.d/cds.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.17.10.d/hdl.var
+-WORK
+worklib
+-HASXLMODE
